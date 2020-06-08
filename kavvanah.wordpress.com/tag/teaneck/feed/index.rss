@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Teaneck &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/teaneck/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Fri, 02 Apr 2010 01:59:14 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Teaneck &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Foreclosure in Teaneck</title>
+		<link>https://kavvanah.wordpress.com/2010/04/01/foreclosure-in-teaneck/</link>
+					<comments>https://kavvanah.wordpress.com/2010/04/01/foreclosure-in-teaneck/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2010 01:59:14 +0000</pubDate>
+				<category><![CDATA[sociology]]></category>
+		<category><![CDATA[dual income]]></category>
+		<category><![CDATA[forclosure]]></category>
+		<category><![CDATA[Teaneck]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1055</guid>
+
+					<description><![CDATA[I was speaking to a foreclosure attorney who said that the foreclosure rate was low in Teaneck despite many being out of work. (I do not know if any of this is statistically true, I took him at his word.) &#8230; <a href="https://kavvanah.wordpress.com/2010/04/01/foreclosure-in-teaneck/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I was speaking to a foreclosure attorney who said that the foreclosure rate was low in Teaneck despite many being out of work. (I do not know if any of this is statistically true, I took him at his word.)</p>
+<p>I asked why?</p>
+<p>He said because everyone has the safety cushion of their day school tuition. If they are unemployed they can just not pay the tuition and have more than enough money to pay their mortgage and utilities.</p>
+<p>His second point was that almost everyone is in a dual income family so that there is the cushion of the other salary.</p>
+<p>The other points that came up in the conversation was the cushion of consumption: Blackberries and ipods for all in the family, eating out very often, leased cars, and other things to be cut.</p>
+<p>I have also heard from the gardeners and house cleaner that people laid off their help. They were all originally paying for both gardener and house cleaner.</p>
+<p>OK – so what does this say about the enclave of Teaneck-Bergenfield Centrist Orthodoxy? What is surprising? Are there any insights about values or social organization?</p>
+<p>The one immediate observation is the dual income. I am not sure which survey had the statistic, but the current construction of Modern Orthodoxy has a higher rate of dual income than Reform and Conservative. It is also one of the clear and sharp distinctions between Centrism and Evangelical. The latter actively teach that the virtue of a stay at home mom, while Centrism assumes that everyone works in a significant career. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/04/01/foreclosure-in-teaneck/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

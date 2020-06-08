@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>law &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/law/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Mon, 04 Jan 2010 19:56:52 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>law &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Law and Religion</title>
+		<link>https://kavvanah.wordpress.com/2010/01/04/law-and-religion/</link>
+					<comments>https://kavvanah.wordpress.com/2010/01/04/law-and-religion/#respond</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2010 19:56:52 +0000</pubDate>
+				<category><![CDATA[books]]></category>
+		<category><![CDATA[law]]></category>
+		<category><![CDATA[state and religion]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=475</guid>
+
+					<description><![CDATA[A Survey of Law &#38; Religion Casebooks For Law Schools from Religion Clause by Howard Friedman here is a listing of casebooks and teaching materials on law and religion designed for law schools and law students available from major law &#8230; <a href="https://kavvanah.wordpress.com/2010/01/04/law-and-religion/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="http://religionclause.blogspot.com/2010/01/survey-of-law-religion-casebooks-for.html">A Survey of Law &amp; Religion Casebooks For Law Schools<br />
+from Religion Clause by Howard Friedman</a></p>
+<p>here is a listing of casebooks and teaching materials on law and religion designed for law schools and law students available from major law book publishers (listed alphabetically by author):</p>
+<p>    * Ariens &amp; Destro, Religious Liberty in a Pluralistic Society, 2d ed., (Carolina Academic Press, 2002).<br />
+    * Belsky &amp; Bessler-Northcutt, Law and Theology, (Carolina Academic Press, 2005).<br />
+    * Berg&#8217;s The State and Religion in a Nutshell, 2d (West Pub., 2004).<br />
+    * Brownstein and Jacobs&#8217;s Global Issues in Freedom of Speech and Religion: Cases and Materials (West Pub., 2008).<br />
+    * Gey, Fonvielle &amp; Hinkle, Religion and the State, 2d ed, (Matthew Bender, 2006).<br />
+    * Griffin&#8217;s Law and Religion, Cases and Materials (Foundation Press, 2006) with 2009 Supplement.<br />
+    * Loewy&#8217;s Religion and the Constitution: Cases and Materials (West Pub., 1998) with 2002 Supplement.<br />
+    * McConnell, Harvey &amp; Berg, Religion and the Constitution, 2d ed., (Aspen Publishers, 2006).<br />
+    * Noonan and Gaffney&#8217;s Religious Freedom: History, Cases and Other Materials on the Interaction of Religion and Government, 2d ed. (Foundation Press, 2010) (available 4/2010, earlier edition currently available).<br />
+    * Ravitch&#8217;s Law and Religion, A Reader: Concepts, Cases and Theory, 2d ed. (West Pub., 2004).<br />
+    * Volokh&#8217;s The Religion Clauses and Related Statutes: Problems, Cases and Policy Arguments (Foundation Press, 2005).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/01/04/law-and-religion/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

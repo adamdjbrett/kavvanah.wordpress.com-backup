@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>death &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/death/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Wed, 09 Jun 2010 03:08:27 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>death &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Paul Griffiths on Death</title>
+		<link>https://kavvanah.wordpress.com/2010/06/08/paul-griffiths-on-death/</link>
+					<comments>https://kavvanah.wordpress.com/2010/06/08/paul-griffiths-on-death/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2010 03:08:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[death]]></category>
+		<category><![CDATA[paul griffiths]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1491</guid>
+
+					<description><![CDATA[Paul Griffiths, the Catholic theologian who started his career in the study of Hindu meditation and left it for the Church, is ever the outside the box thinker. Here he offers us his thoughts on death, which equally apply to &#8230; <a href="https://kavvanah.wordpress.com/2010/06/08/paul-griffiths-on-death/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Paul Griffiths, the Catholic theologian who started his career in the study of Hindu meditation and left it for the Church, is ever the outside the box thinker.<br />
+Here he offers us his thoughts on death, which equally apply to Judaism.Griffith looking from the vantage of pietistic works of the pre-modern era asks:Which is more important a good death and journey to the world to come or late 20th century medical care? Seforim like R. Aharon Berachya&#8217;s Maavar Yabok from the Early Modern period speak about a good death and a good journey to the world to come.  </p>
+<blockquote><p>Is death, human death, a good thing? Catholic teaching is ambivalent about this.<br />
+On the one hand, the answer is no: It is a horror and an offense. We make great efforts to postpone it, and we lament when it occurs.<br />
+On the other hand, the answer is yes: the body’s death marks a transition to a new condition which we hope will be immeasurably better than the agony of this life; and so it has been a commonplace of the Catholic tradition to welcome death exactly as the gateway to eternal life. The day on which a saint is remembered in the Catholic calendar is her death-day, </p>
+<p>One way in which this might be done is for the church to educate its wealthy—in American terms, that means anyone with medical insurance and a household income over $100,000 annually—that it might be good for them to die sooner than they do and with less care than they have come to think their right. There is no reason why the church ought to accept the guidelines of the American Medical Association about such things as the frequency with which routine physical examinations ought to be scheduled&#8230; Whether it is proper in a particular case will rest upon ancillary considerations, not upon questions about intrinsic propriety.</p>
+<p>Another way in which this might be done is to encourage Catholics from an early age in the use of the symbols of death: the skull on the desk, imaginative meditation on the approach and arrival of one’s own death, prayer before the exposed bodies of the dead. These symbols bring the reality of death into life, where it belongs.</p>
+<p>I shudder as I write these things because they are so profoundly un-American. These views can be made plausible only if American Catholics begin again to have a sense that there is an art to dying, and that good practice of it means learning when, and when not, to seek diagnosis and treatment. Death’s embrace will come: hastening it is one mistake; resisting it whenever resistance is possible is another.</p></blockquote>
+<p><a href="http://pauljgriffiths.com/2010/06/08/death-dying/">Full version here.</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/06/08/paul-griffiths-on-death/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

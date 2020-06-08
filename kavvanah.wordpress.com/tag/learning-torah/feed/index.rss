@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>learning torah &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/learning-torah/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Sun, 02 May 2010 23:41:29 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>learning torah &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Notebook learning</title>
+		<link>https://kavvanah.wordpress.com/2010/05/02/notebook-learning/</link>
+					<comments>https://kavvanah.wordpress.com/2010/05/02/notebook-learning/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Sun, 02 May 2010 21:07:26 +0000</pubDate>
+				<category><![CDATA[rabbis]]></category>
+		<category><![CDATA[sociology]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[learning torah]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1215</guid>
+
+					<description><![CDATA[I just came back from a simcha and while there spoke to a old-time senior RIETS person, always good to catch up on the insider baseball on recent events from his perspective. Along the way he noted: &#8220;Guys dont really &#8230; <a href="https://kavvanah.wordpress.com/2010/05/02/notebook-learning/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I just came back from a simcha and while there spoke to a old-time senior RIETS person, always good to catch up on the insider baseball on recent events from his perspective.<br />
+<em>Along the way he noted:<br />
+&#8220;Guys dont really learn anymore. They do it to be part of a group and fill their notebooks with the content of shiur. They dont ask questions, they are not sharp or analytic anymore.&#8221; Rav Gorelik or &#8220;Rav Romm would call on you and you were expected to think to answer a question on the spot.&#8221; &#8220;Today over half the shiurim require no thinking. Guys just listen and write.&#8221; In the old days, you would have been criticized for such unthinking passivity.<br />
+To which I replied: &#8220;But this happened entirely under your watch.You were there for the entire change.&#8221;</em></p>
+<p><strong>So who is responsible for such changes? Do we attribute it to the will of the students?external forces? Should this rabbi have spoken up? Would it have helped?</strong></p>
+<p>This same RIETS figure noted that numerically women&#8217;s learning in Modern Orthodoxy has stayed constant. They may have moved from one institution to another in NYC and choose different programs in Israel but the numbers overall are stable. At that point we got into the above conversation that men&#8217;s learning has also plateaued.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/05/02/notebook-learning/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

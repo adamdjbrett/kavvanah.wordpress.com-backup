@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>sermons &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/sermons/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Fri, 02 Apr 2010 15:24:56 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>sermons &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Sermon Coverage</title>
+		<link>https://kavvanah.wordpress.com/2010/04/02/sermon-coverage/</link>
+					<comments>https://kavvanah.wordpress.com/2010/04/02/sermon-coverage/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Fri, 02 Apr 2010 15:13:20 +0000</pubDate>
+				<category><![CDATA[popular religion]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[get religion]]></category>
+		<category><![CDATA[sermons]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1061</guid>
+
+					<description><![CDATA[Many people I know have long wished for coverage of sermons. Not rabbis submitting what they think is a good dvar Torah, but how things are being presented in the pulpit. We all compared notes how 9/11 was dealt or &#8230; <a href="https://kavvanah.wordpress.com/2010/04/02/sermon-coverage/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Many people I know have long wished for coverage of sermons. Not rabbis submitting what they think is a good dvar Torah, but how things are being presented in the pulpit. We all compared notes how 9/11 was dealt or not dealt with in the pulpit, and how the elections spilled into the pulpit. But it wold be nice to have regular coverage of how the pulpit rabbis actually discuss issues from the pulpit. How they choose their words? How do they frame the issue? Do they connect it to a Biblical typology? Do all American issues become connected to Israel? Do they see the financial scandals as a need for mussar? Do they refer to other Rabbis? When do they take responsibility rather than blaming others?</p>
+<p>Here is a nice piece bemoaning the same thing from the Catholic side and how a priest has to choose his words in his sermon.</p>
+<blockquote><p><a href="http://www.getreligion.org/?p=30258">To mention or not to mention?</a><br />
+from GetReligion by Mollie</p>
+<p>One of the biggest holes in religion news coverage is treatment of weekly worship. Regular worship is one of the most common expressions of religious activity. Much more important in the life of the church than, say, politics. But it doesn’t seem to interest reporters terribly much. So I was pleased to see the angle that Washington Post religion reporter William Wan took with his latest: “As Easter nears, priests struggle with how, whether to address church scandals.”</p>
+<p>  “I wanted to be careful to say it well, to say it right,” Enzler said. The first version was too heavy on apology. “You want to admit that the church isn’t perfect, but the last thing you want is to add fuel to the fire,” Enzler said.</p>
+<p> This was the crux, he realized, in which the church found itself: It needed to admit missteps, but worried that by doing so, it would fall prey to the accusations of its critics.</p>
+<p>With almost four decades in the priesthood, Enzler recalled that some of his most powerful sermons were ones in which he let down his guard and became vulnerable with his flock. By sharing his struggles, he thought, his parishioners could see the true heart of the church and its priests. They, too, struggle at times with mistakes. They, too, agonize over how to fix them. They, too, need grace and prayer.</p></blockquote>
+<p>Anyone have any important sermons to discuss? How did your rabbi deal with the bombardment of continuous scandals of the last few years? Did they take responsibility, did they minimize it, or did they try and change anything? Or did they possibly use the scandal for another purpose like showing the importance of their precious community as a bastion in the storm and the need to contribute to their building fund?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/04/02/sermon-coverage/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

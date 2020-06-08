@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	
+	>
+<channel>
+	<title>
+	Comments on: The Cambridge Companion to Leo Strauss,	</title>
+	<atom:link href="https://kavvanah.wordpress.com/2010/06/08/the-cambridge-companion-to-leo-strauss/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com/2010/06/08/the-cambridge-companion-to-leo-strauss/</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Wed, 09 Jun 2010 16:38:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+	<item>
+		<title>
+		By: Avi Solomon		</title>
+		<link>https://kavvanah.wordpress.com/2010/06/08/the-cambridge-companion-to-leo-strauss/#comment-1150</link>
+
+		<dc:creator><![CDATA[Avi Solomon]]></dc:creator>
+		<pubDate>Wed, 09 Jun 2010 16:38:00 +0000</pubDate>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1497#comment-1150</guid>
+
+					<description><![CDATA[Strauss&#039;s most creative writings are exactly the ones grappling with Judaism:
+http://www.scribd.com/doc/524144/How-to-Study-Medieval-Philosophy
+http://www.scribd.com/doc/524142/Leo-Strauss-Genesis
+http://www.scribd.com/doc/32240105/Leo-Strauss-On-the-Plan-of-the-Guide-of-the-Perplexed
+His correspondence with Scholem is also of great interest.]]></description>
+			<content:encoded><![CDATA[<p>Strauss&#8217;s most creative writings are exactly the ones grappling with Judaism:</p>
+<div class="embed-scribd"><iframe class="scribd_iframe_embed" frameborder="0" height="750" id="524144" scrolling="no" src="http://www.scribd.com/embeds/524144/content" width="500"></iframe><script type="text/javascript">          (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "#{root_url}javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })()        </script></div>
+<div class="embed-scribd"><iframe class="scribd_iframe_embed" frameborder="0" height="750" id="524142" scrolling="no" src="http://www.scribd.com/embeds/524142/content" width="500"></iframe><script type="text/javascript">          (function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "#{root_url}javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })()        </script></div>
+<p><a href="http://www.scribd.com/doc/32240105/Leo-Strauss-On-the-Plan-of-the-Guide-of-the-Perplexed" rel="nofollow ugc">http://www.scribd.com/doc/32240105/Leo-Strauss-On-the-Plan-of-the-Guide-of-the-Perplexed</a><br />
+His correspondence with Scholem is also of great interest.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

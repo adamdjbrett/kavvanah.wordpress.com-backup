@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>John Allen &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/john-allen/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Wed, 11 Nov 2009 04:21:24 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>John Allen &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Does this sound familiar?“Catholicism lite,”  against “Taliban Catholicism”</title>
+		<link>https://kavvanah.wordpress.com/2009/11/11/does-this-sound-familiar%e2%80%9ccatholicism-lite%e2%80%9d-against-%e2%80%9ctaliban-catholicism%e2%80%9d/</link>
+					<comments>https://kavvanah.wordpress.com/2009/11/11/does-this-sound-familiar%e2%80%9ccatholicism-lite%e2%80%9d-against-%e2%80%9ctaliban-catholicism%e2%80%9d/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2009 04:21:24 +0000</pubDate>
+				<category><![CDATA[sociology]]></category>
+		<category><![CDATA[theology]]></category>
+		<category><![CDATA[catholics]]></category>
+		<category><![CDATA[John Allen]]></category>
+		<category><![CDATA[orthodox-lite]]></category>
+		<category><![CDATA[taliban-orthodox]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=233</guid>
+
+					<description><![CDATA[We tend to think that our divisions in the Jewish community are internally generated, rather than reflective of the divisive culture wars of the last 20 years. The article is on the extremes in the community. If you substitute &#8220;orthodox-lite&#8221; &#8230; <a href="https://kavvanah.wordpress.com/2009/11/11/does-this-sound-familiar%e2%80%9ccatholicism-lite%e2%80%9d-against-%e2%80%9ctaliban-catholicism%e2%80%9d/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>We tend to think that our divisions in the Jewish community are internally generated, rather than reflective of the divisive culture wars of the last 20 years. The article is on the extremes in the community. If you substitute &#8220;orthodox-lite&#8221; and &#8220;Taliban-orthodox&#8221; would it change the meaning? And if the trend readers are correct,  much of the ideological driven angst will dissipate with the new generation.</p>
+<p><a href="http://ncronline.org/blogs/all-things-catholic/next-generation-catholic-leaders">Recently John Allen published a column</a> regarding young Catholics. Here is some of what Allen wrote and some comments from the Commonweal journal blog:</p>
+<blockquote><p>This new generation seems ideally positioned to address the lamentable tendency in American Catholic life to drive a wedge between the church’s pro-life message and its peace-and-justice commitments. More generally, they can help us find the sane middle between two extremes: What George Weigel correctly calls “Catholicism lite,” meaning a form of the faith sold out to secularism; and what I’ve termed “Taliban Catholicism,” meaning an angry expression of Catholicism that knows only how to excoriate and condemn. Both are real dangers, and the next generation seems well-equipped to steer a middle course, embracing a robust sense of Catholic identity without carrying a chip on their shoulder.</p>
+<p>&#8220;Why would I want to join a bunch of people who seem bummed out about the church?&#8221; one asked. &#8220;What&#8217;s the attraction in that?&#8221;</p>
+<p>Yet they were equally emphatic that their choice should not be read in terms of left/right dynamics, as if they were choosing a side. In fact, many said their politics don&#8217;t really conform to any ideological formation, and in any event they said they resent being boxed into categories they find artificial and restrictive.</p></blockquote>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2009/11/11/does-this-sound-familiar%e2%80%9ccatholicism-lite%e2%80%9d-against-%e2%80%9ctaliban-catholicism%e2%80%9d/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

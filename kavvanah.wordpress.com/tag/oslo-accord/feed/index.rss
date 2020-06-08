@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Oslo Accord &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/oslo-accord/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Sun, 23 May 2010 12:06:25 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Oslo Accord &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Oslo Conference and Catechisms</title>
+		<link>https://kavvanah.wordpress.com/2010/05/20/oslo-conference-and-catechisms/</link>
+					<comments>https://kavvanah.wordpress.com/2010/05/20/oslo-conference-and-catechisms/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Fri, 21 May 2010 01:37:29 +0000</pubDate>
+				<category><![CDATA[popular religion]]></category>
+		<category><![CDATA[rabbis]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Berlin Orthodox Seminary]]></category>
+		<category><![CDATA[marcus melchior]]></category>
+		<category><![CDATA[melchior]]></category>
+		<category><![CDATA[Oslo Accord]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1309</guid>
+
+					<description><![CDATA[I had a conference in Oslo this past week and had planned to blog from there but there was not enough stable wifi. i did not get a chance to post &#8220;be back soon.&#8221; And I have learned that no &#8230; <a href="https://kavvanah.wordpress.com/2010/05/20/oslo-conference-and-catechisms/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I had a conference in Oslo this past week and had planned to blog from there but there was not enough stable wifi.  i did not get a chance to post &#8220;be back soon.&#8221; And I have learned that no one has time for blogs  on the day before a holiday. I will give conference details in the next post(s)  but a few random thoughts. </p>
+<p>I stayed in the same retreat center where the Oslo accords were signed. There was an eerie little shrine to the signing with a group photo of a very happy smiling Rabin. (I wanted to do a Yom Yerushalayim posting from there.)</p>
+<p>I was in Oslo itself for their national day when they became independent from Denmark a hundred years ago.  However, their rabbinic leadership have been four generations of Melchiors. (The current rabbi of Oslo is MK Melchior’s son.)</p>
+<p>For a sense of the Jewish community in Denmark before WWII, I recommend “A Rabbi Remembers “ by Marcus Melchior ; translated from the Danish by Werner Melchior. New York : L. Stuart, c1968. Most people read the memoir for the Holocaust sections; I read it for its portrayal of Western European Orthodoxy. Where a kid who has only had Jewish catechism classes decides he likes synagogue life and wants to become a rabbi. He goes to the Berlin Orthodox seminary where he learns Talmud for the first time as part of the preparatory program (2 years) and then enters the seminary program. One does not get an image of the seminary as a hotbed of academic scholarship, more synagogue skills and high church sermonics. Even when Rabbi Marcus returns to Denmark, he writes that he is little interested in teaching and more interested in the synagogue aspects.</p>
+<p>We can use a study of Western European Orthodoxy- a great PHD topic&#8211;where congregants only knew Judaism from the catechism they studied during religion time in public school  (1-4 periods a week) and then may have also had to take a course on creating a Jewish home before they married.  There are many of these catechisms and reflect different concerns than our usual casting of Germanic Orthodoxy in terms of ideological classes. </p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/05/20/oslo-conference-and-catechisms/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

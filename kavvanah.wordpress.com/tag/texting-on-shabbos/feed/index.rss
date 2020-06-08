@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>texting on shabbos &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/texting-on-shabbos/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Fri, 25 Feb 2011 20:41:15 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>texting on shabbos &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Half Shabbos</title>
+		<link>https://kavvanah.wordpress.com/2010/09/13/half-shabbos/</link>
+					<comments>https://kavvanah.wordpress.com/2010/09/13/half-shabbos/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2010 15:08:19 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[half-shabbos]]></category>
+		<category><![CDATA[texting on shabbos]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1968</guid>
+
+					<description><![CDATA[I was asked by an Jewish educator- principal if I know what it means when current HS kids ask each other if they keep &#8220;half shabbos&#8221; or &#8220;full shabbos?&#8221; Since I know the lay of the land, I said sure &#8230; <a href="https://kavvanah.wordpress.com/2010/09/13/half-shabbos/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I was asked by an Jewish educator- principal if I know what it means when current HS kids ask each other if they keep &#8220;half shabbos&#8221; or &#8220;full shabbos?&#8221;<br />
+Since I know the lay of the land, I said sure it is texting.<br />
+He said: Your right. The kids call someone who texts (and tweets and posts) on Shabbos as keeping half-shabbos and those who dont full shabbos.<br />
+This phenomena is more widespread than just the average modern orthodox. I have seen rabbinic kids here who wear black hats admit that they text on shabbos.<br />
+The educator said that the kids consider it part of daily verbal communication.</p>
+<p>Update:<br />
+The discussion continued here <a href="https://kavvanah.wordpress.com/2010/11/03/half-shabbos-again/">Half-Shabbos Again</a> and here <a href="https://kavvanah.wordpress.com/2010/11/10/why-half-shabbos/">Why Half-Shabbos?</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/09/13/half-shabbos/feed/</wfw:commentRss>
+			<slash:comments>32</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

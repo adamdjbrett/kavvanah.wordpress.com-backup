@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Hans Joachim Schoeps &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/hans-joachim-schoeps/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Tue, 22 Sep 2009 02:28:05 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>Hans Joachim Schoeps &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Intersecting Pathways</title>
+		<link>https://kavvanah.wordpress.com/2009/09/22/intersecting-pathways/</link>
+					<comments>https://kavvanah.wordpress.com/2009/09/22/intersecting-pathways/#respond</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Tue, 22 Sep 2009 02:28:05 +0000</pubDate>
+				<category><![CDATA[theology]]></category>
+		<category><![CDATA[Alexander Altmann]]></category>
+		<category><![CDATA[Hans Joachim Schoeps]]></category>
+		<category><![CDATA[marc krell]]></category>
+		<category><![CDATA[revelation]]></category>
+		<category><![CDATA[schoeps]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=57</guid>
+
+					<description><![CDATA[Marc Krell, Intersecting Pathways, Modern Jewish Theologians in Conversation with Christianity, Oxford 2003 Krell seeks to examine the Jewish-Christian interaction by focusing on Hans Joachim Schoeps, Franz Rosenzweig, Richard Rubenstein and Yitz Greenberg. His introduction cites among others Steve Wasserstrom, &#8230; <a href="https://kavvanah.wordpress.com/2009/09/22/intersecting-pathways/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Marc Krell, Intersecting Pathways, Modern Jewish Theologians in Conversation with Christianity, Oxford 2003</p>
+<p>Krell seeks to examine the Jewish-Christian interaction by focusing on Hans Joachim Schoeps, Franz Rosenzweig, Richard Rubenstein and Yitz Greenberg. His introduction cites among others Steve Wasserstrom, Boyarin, and the cultural theory of Katheryn Tanner to go beyond the essentialist category of influence.  The book is filled with quotes of prior scholar and is rather associative. Krell’s method if applied to my blog would cull the quotes from Pope Benedict to characterize my thought.</p>
+<p>However, it is nice to have some more Hans Joachim Schoeps, an important 20<sup>th</sup> century thinker in English. Schoeps used existential and dialectic themes to study the Jewish Christian relationship and he may be the source for the understanding of Rosenzweig as seeing the two faiths as two paths. Schoeps was the advocate of Jewish-Christian dialogue that assumes we can understand each others faith. When Soloveitchik and Walter Wurzburger argued against dialogue, Schoeps’ position was the one rejected.</p>
+<p>As an interesting point, .Schoeps wrote that Revelation in Judaism offers redemption from sin and the experience of mercy. Alexander Altmann argued the orthodox position that revelation is separate from redemption.</p>
+<p>I am less certain; while Shavuot is clearly separate than Yom Kippur, but many locate their redemption in the past. They assume that their conversion to the acceptance of the halakhah, as either BT or moment of maturation has redeemed them from their prior existence. Or that their acceptance of the system has put them on the path of mercy and the world to come. Unlike Altmann’s position, we do not see a Jewish urgency for redemption and the world to come. Many act as if one gets the world-to-come upon buying a house in an orthodox neighborhood; they seem to think that they cannot lose redemption. And Soloveitchik has, similar to Schoeps, a “redemptive sacrificial act” that redeems us from our material existence.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2009/09/22/intersecting-pathways/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
