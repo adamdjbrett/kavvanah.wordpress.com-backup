@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>baal shem tov &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/baal-shem-tov/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Tue, 11 May 2010 16:29:30 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>baal shem tov &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Ex- Hasidim and the Besht</title>
+		<link>https://kavvanah.wordpress.com/2010/05/11/ex-hasidim-and-the-besht/</link>
+					<comments>https://kavvanah.wordpress.com/2010/05/11/ex-hasidim-and-the-besht/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Tue, 11 May 2010 15:10:22 +0000</pubDate>
+				<category><![CDATA[Hasidism]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[baal shem tov]]></category>
+		<category><![CDATA[besht]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1297</guid>
+
+					<description><![CDATA[Over Shabbat, I met another of the many Boro Park Hasidim who have left the Hasidic world. Our Bachur said that unlike his friends who went un-observant, he was looking for some form of modern Orthodox identity. He mentioned that &#8230; <a href="https://kavvanah.wordpress.com/2010/05/11/ex-hasidim-and-the-besht/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Over Shabbat, I met another of the many Boro Park Hasidim who have left the Hasidic world. Our Bachur said that unlike his friends who went un-observant, he was looking for some form of modern Orthodox identity. </p>
+<p>He mentioned that the Besht was his role model because the Besht did not care what people wore or what the people did. I have noticed this intense and gravely serious use of the Besht by others in the same situation. Many of the articles and dissertations on the LES Chulent mention the important use of the Besht as a justification. </p>
+<p>I did not have a heart to tell them that we have no indication that the Besht did not care about these things. The image of Besht as friend of the common man was created by Shimon Dubnow based on Renan’s Life of Jesus. The common folk needed a voice to be harnessed by Dubnow’s Yiddishist Folks party. IL Peretz also used this image with a healthy dose of Tolstoy mixed in. From Dubnow, the image of the Besht as friend of the common man was picked up by R. Yosef Yitzhak in his creative memoirs and stories, and then further used by Yisrael Yaakov Klapholtz.  It was also picked up in 1930’s US by Levin and Shnitzer. They fill out the details of how the Besht was a proponent of education for girls, was a democrat, and a rationalist.<br />
+(I am not discussing Zweifel&#8217;s modernizations nor Buber&#8217;s view of an elite mystic, rather the friend of the common man.)</p>
+<p>So obviously there is a need for a source and authority for change. Many times when a generation cannot turn to the prior generation they pick a distant figure to idealize. What are the contours of this new image of the Besht?  It certainly has Chabad elements. Is it only a transitional image to something else? Is this different than when the generation of the 1920&#8217;s chasidic youth lost faith in their parents and the Piesetzna rebbe told them to consider &#8220;as if&#8221; the patriarchs and prior ages were their parents? Or many modern groups that choose Maimonides? I do feel it has a different feel, a lack of an &#8220;As if&#8221;&#8221; quality. Any thoughts?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/05/11/ex-hasidim-and-the-besht/feed/</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

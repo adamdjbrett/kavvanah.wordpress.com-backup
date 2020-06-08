@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>ozer Bergman &#8211; The Book of Doctrines and Opinions:</title>
+	<atom:link href="https://kavvanah.wordpress.com/tag/ozer-bergman/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kavvanah.wordpress.com</link>
+	<description>notes on Jewish theology and spirituality</description>
+	<lastBuildDate>Sun, 13 Jun 2010 18:47:48 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<cloud domain='kavvanah.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://secure.gravatar.com/blavatar/c9f111237f93750b6b994fc5185d49c3?s=96&#038;d=https%3A%2F%2Fs0.wp.com%2Fi%2Fbuttonw-com.png</url>
+		<title>ozer Bergman &#8211; The Book of Doctrines and Opinions:</title>
+		<link>https://kavvanah.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://kavvanah.wordpress.com/osd.xml" title="The Book of Doctrines and Opinions:" />
+	<atom:link rel='hub' href='https://kavvanah.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>Why does Breslov Attract crazies?</title>
+		<link>https://kavvanah.wordpress.com/2010/06/13/why-does-breslov-attract-crazies/</link>
+					<comments>https://kavvanah.wordpress.com/2010/06/13/why-does-breslov-attract-crazies/#comments</comments>
+		
+		<dc:creator><![CDATA[Alan Brill]]></dc:creator>
+		<pubDate>Sun, 13 Jun 2010 18:47:47 +0000</pubDate>
+				<category><![CDATA[Hasidism]]></category>
+		<category><![CDATA[breslov]]></category>
+		<category><![CDATA[ozer Bergman]]></category>
+		<guid isPermaLink="false">http://kavvanah.wordpress.com/?p=1515</guid>
+
+					<description><![CDATA[No, the question is not my question. However, Mispachah magazine had a positive feature article on Breslov Hasidus two weeks ago. This article was followed by a bevy of published letters critical or nasty toward Breslov. Among the letters was &#8230; <a href="https://kavvanah.wordpress.com/2010/06/13/why-does-breslov-attract-crazies/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>No, the question is not my question. However, Mispachah magazine had a positive feature article on Breslov Hasidus two weeks ago. This article was followed by a bevy of published letters critical or nasty toward Breslov. Among the letters was one that claimed that they get all the crazies.<br />
+So this week, the noted Breslov author and teacher Ozer Bergman blogged a letter that he sent in defense of Breslov to Mispachah. He writes as follows:</p>
+<blockquote><p>Lastly, insofar as “crazies” (a word that may be accurate, but is certainly loathsome) are concerned, may I suggest two reasons why there seems to be a preponderance in Breslov. First, since so many communities insist on keeping them out, lest those meshugaim spoil their sheine image, the “crazies” go to the only place open to them—Breslov. Second, nowadays when a bit of nevuah has been bestowed upon the insane, perhaps the “crazies” intuit that of all the rebbes and all the seforim, only Rebbe Nachman is great enough to heal them. for the full letter &#8211; <a href="http://www.breslov.org/blog/?p=1100">see here </a></p></blockquote>
+<p>I am not sure most of us would have used the same line of defense.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://kavvanah.wordpress.com/2010/06/13/why-does-breslov-attract-crazies/feed/</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+		
+		<media:content url="https://0.gravatar.com/avatar/3c03ae2a4d660bbae7c017f271adb19c?s=96&#38;d=identicon&#38;r=R" medium="image">
+			<media:title type="html">kavvanah</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>
